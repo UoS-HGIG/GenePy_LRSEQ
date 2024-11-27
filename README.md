@@ -1,5 +1,6 @@
 # GenePy_LRSEQ
-A gene-based pathogenicity score based on phased variants from long read sequencing
+A gene-based pathogenicity score based on phased variants from long read sequencing.
+![alt text](https://drive.google.com/file/d/1ak9IiERSImO3d6fRcaVBJzHt0PZEBiAF/view?usp=drive_link)
 
 Prerequisites:
 
